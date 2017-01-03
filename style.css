@@ -182,3 +182,11 @@ body{
 .correct{
   color:red !important;
 }
+
+.declaration{
+  margin-top: 50px;
+  font-size: 10px;
+  color: gray;
+  font-weight: 300;
+  font-style: italic;
+}
